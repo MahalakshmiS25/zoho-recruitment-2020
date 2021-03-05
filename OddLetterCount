@@ -1,0 +1,14 @@
+class OddLetterCount{
+static void pattern(string str, int len)
+for(i=0;i<len;i++){
+int j= len-1-i;
+int (k=0;k<len;k++)
+}
+public static void main(String[] args)
+{
+String str = "Happy";
+int len = str.length();
+pattern(str,len);
+}
+}
+
